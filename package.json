@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "serve --port 5000 --cors content"
+    "start": "serve content -l 5000"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "serve": "^7.1.3"
+    "serve": "^11.2.0"
   }
 }
