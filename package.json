@@ -1,0 +1,15 @@
+{
+  "name": "react-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve --port 5000 --cors content"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^6.5.2"
+  }
+}
