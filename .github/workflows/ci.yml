@@ -22,7 +22,6 @@ jobs:
         npm test
       env:
         CI: true
-
  
   deploy:
     runs-on: ubuntu-latest
